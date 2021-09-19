@@ -11957,3 +11957,8 @@ padding: 20px;
 .swiper-slide p{
   text-align: center;
 }
+
+.carousel-item img{
+  height: 100%;
+  width: 100%;
+}
